@@ -28,7 +28,7 @@ while (inc > 0) {
 }
 
 console.log(`\n\n`)
-console.log(`autre méthode (mais la je triche un peut sinon cela ne marche pas):`)
+console.log(`Autre méthode :`) // mais la je triche un peut sinon cela ne marche pas.
 
 let n4 = 103
 
