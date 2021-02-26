@@ -6,5 +6,5 @@ let i = 0
 do {
   console.log(tab[i])
   i = i + 1
-} while (i < 4) {
+} while (i < tab.length) {
 }
