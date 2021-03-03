@@ -39,3 +39,14 @@ while (n4 > 0) {
   }
   console.log(n4)
 }
+/*
+let max = 101
+let min = 0
+let step = 2
+
+let i=max
+
+do {
+  while
+  console.log()
+}*/

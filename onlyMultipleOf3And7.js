@@ -4,7 +4,7 @@ si un nombre est multiple d'un autre. */
 
 
 for (let i = 1; i <= 1000; ++i) {
-  if (i % 3 && i % 7) {
+  if (i % 3 === 0 && i % 7 === 0) {
     continue
   }
   console.log(i)
