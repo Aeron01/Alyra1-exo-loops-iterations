@@ -19,7 +19,6 @@ for (let i = 0; i < tab.length; ++i) {
   for (let j = 0; j < tab[i].length; ++j) {
     sum += tab[i][j]
   }
-
 }
 
 console.log(`sum = ${sum}`)
